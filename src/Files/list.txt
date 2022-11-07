@@ -1,0 +1,20 @@
+Name:Aichi Shukutoku University
+Web pages:http://www.aasa.ac.jp/
+Country:Japan
+Alpha two codes:JP
+Name:Aichi Bunkyo University
+Web pages:http://www.abu.ac.jp/
+Country:Japan
+Alpha two codes:JP
+Name:Aichi University of Education
+Web pages:http://www.aichi-edu.ac.jp/
+Country:Japan
+Alpha two codes:JP
+Name:Aichi Prefectural University of Fine Arts & Music
+Web pages:http://www.aichi-fam-u.ac.jp/
+Country:Japan
+Alpha two codes:JP
+Name:Aichi Gakuin University
+Web pages:http://www.aichi-gakuin.ac.jp/
+Country:Japan
+Alpha two codes:JP

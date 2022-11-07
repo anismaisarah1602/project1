@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hello World!</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+
+  <body>
+    <div class="header">
+      <div style="color:#000;width:90%;border:1px solid gray;padding:20px;background:#e1efbb url('https://www.w3schools.com/css/mountain.jpg')">
+        <h1><strong>LIST OF UNIVERSITIES WITH WEB PAGES AROUND THE WORLD 🗺️</strong>  </h1>
+        <p class="p1"><strong> ✔️ SEARCHING UNIVERSITIES? </strong></p>
+        <br>
+        <p class="p2">YOU CAN FIND IT HERE 👇🏻</p>
+        <p class="p3">Just enter the country and some keywords from the university name</p>
+        
+        <input type="text" placeholder="Enter country" id="city_input">
+        <input type="text" placeholder="Enter keyword" id="name_input">
+        <p class="p4">Click files and save your own top list of interested universities.</p>
+        <br><br>
+        <button class="button" onclick="buttonClicked()">SEARCH</button>     
+      </div>
+      <br><br>
+      <div>
+        <a href="savefiles.html">
+          <button class="button-1"> Save here </button>  
+        </a>  
+      </div> 
+      <ul id="list"><br></ul>
+      <script src="main.js"></script>
+  </div>
+  </body>
+</html>
